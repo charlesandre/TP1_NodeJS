@@ -1,17 +1,17 @@
-module.exports = 
+module.exports =
   # Save a user
   # Usage : save(name, pwd, callback)
   # - Name = user name
   # - Pwd = password
-  # - Callback = function to call when done 
+  # - Callback = function to call when done
   save: (name, pwd, callback) ->
-    if callback == null
+    if callback == undefined
       callback = pwd
       callback new Error "missing parameters"
-    else 
+    else
       #console.log("saving " + name  + " with pwd " + pwd)
       callback()
-      
+
   get: (name, callback) ->
     #console.log("saving " + name)
     callback()

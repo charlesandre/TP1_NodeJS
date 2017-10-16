@@ -15,7 +15,7 @@ compilePug() {
 compileStylus() {
   echo "Compiling stylus files"
   echo "nothing to do"
-} 
+}
 
 main() {
   case "$1" in
