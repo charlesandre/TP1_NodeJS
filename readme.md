@@ -1,22 +1,26 @@
 
 # AST 2017
 
-![Build](https://travis-ci.org/charlesandre/TP1_NodeJS.svg?branch=master)
+![Build](https://travis-ci.org/cesarBere/ece-nodejs-2017.svg?branch=master)
 
 simple project for ECE AST class
 
-## Installation instructions
+## Installation instructions 
 
 Just clone it from github
 
-## Run
+## Run 
 
 Use `node index.js`
 
-## Tests
+## Tests 
 
-For later
+For later 
 
-## License
+## Contributors
+
+Cesar Berezowski 
+
+## License 
 
 Apache2
